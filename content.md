@@ -2092,7 +2092,7 @@ Muuda tausta värvi hex koodiga.
 
 #### Layout
 
-Layout on lavakujunduses asjade paigutus. Võimalusi on palju. Et kujundused igal ekraanil töötaksid tuleb nad ehitada üles paindlikult, kombineerides erinevaid paneele.
+Layout on lavakujunduses asjade paigutus. Võimalusi on palju. Et kujundused igal ekraanil töötaksid, tuleb nad ehitada üles paindlikult, kombineerides erinevaid paneele.
 
 Layout ise ei ole objekt, mida saab luua, Layout kujuneb läbi paneelide.
 
