@@ -7,7 +7,7 @@
 
 Tere,
 
-Kui soovid programmeerijaks õppida, oled õiges kohas. Käesolevad materjalid on loodud IT Kolledži tarbeks, aga siht on võimaldada igaühel programmeerimist õppida *põhjalikult*. Materjalid pole veel valmis, aga võid juba proovida kuidas hammas peale hakkab (tagasiside kirjuta foorumisse).
+Kui soovid programmeerijaks õppida, oled õiges kohas. Käesolevad materjalid on loodud IT Kolledži tarbeks, aga siht on võimaldada igaühel programmeerimist õppida *põhjalikult*. Materjalid pole veel valmis, aga võid juba proovida, kuidas hammas peale hakkab (tagasiside kirjuta foorumisse).
 
 **Kuidas siin orienteeruda**
 
@@ -82,7 +82,7 @@ Et ikka põnev oleks, saad päris oma programmi kirjutada. Ära idee leidmise p�
 
 ### Idee kinnitamine
 
-Sellist ametlikku asja, nagu "kinnitamine", meil ei ole. Kui postitad foorumisse oma idee on see vaid tagasiside saamiseks. Sealjuures ei pea liialt vaevama end idee välja mõtlemisega. Kui kursuse keskel avastad, et teeks hoopis midagi muud, siis palun väga - tee. Siiani kulutatud aeg kindlasti ei ole maha visatud.
+Sellist ametlikku asja, nagu "kinnitamine", meil ei ole. Kui postitad foorumisse oma idee, on see vaid tagasiside saamiseks. Sealjuures ei pea liialt vaevama end idee välja mõtlemisega. Kui kursuse keskel avastad, et teeks hoopis midagi muud, siis palun väga - tee. Siiani kulutatud aeg kindlasti ei ole maha visatud.
 
 ### Näited
 
@@ -104,14 +104,14 @@ Kõik on hästi. Kui sa kujundad oma programmi paberil ära, mõtled läbi, mis 
 
 ### Vastamine
 
-Nagu iga õige projekt (näiteks lõputöö) tuleb projekt kaitsta kõigi ees. Esitamisel võid kasutada kooli arvutit, aga enda masinast on ikka kõige kindlam. 
+Nagu iga õige projekt (näiteks lõputöö), tuleb projekti kaitsta kõigi ees. Esitamisel võid kasutada kooli arvutit, aga enda masinast on ikka kõige kindlam. 
 
 Esinemine näeb välja midagi sellist:
 
-* Jaga oma giti repo publikuga
-* Pane programm käima [2min]
-* Selgita ühte koodijuppi, mille üle oled eriti uhke [2min]
-* Publiku küsimused ja õppejõu tagasiside koos hindega [2min]
+* Jaga oma giti repot publikuga
+* Pane programm käima [2 min]
+* Selgita ühte koodijuppi, mille üle oled eriti uhke [2 min]
+* Publiku küsimused ja õppejõu tagasiside koos hindega [2 min]
 
 ### Hindamine
 
@@ -142,14 +142,14 @@ Nonii. "Ükskõik kui keeruline või lihtne" on tore, aga mille eest reaalselt h
     *   rekursioon
     *   eriti hea klasside/meetodite taaskasutatavus
 * Lisapunkte
-    *   Tudeng on läinud aine raamistikust edasi ehk oskab rohkem kui on aines õpetatud.
+    *   Tudeng on läinud aine raamistikust edasi ehk oskab rohkem, kui on aines õpetatud.
     *   Tudeng on reaalselt gitti kasutanud (committide periood on loogiline)
     *   Kasutatud on lisa raamistikke, näiteks SQL andmebaas.
-    *   Kui tudeng tööga päris valmis ei saanud, kas ta vähemalt teab mida järgmiseks peaks tegema?
+    *   Kui tudeng tööga päris valmis ei saanud, kas ta vähemalt teab, mida järgmiseks peaks tegema?
 
 ### Plagiaadikontroll
 
-(Rakendada ainult kui väga vaja, eksam on lõplik filter)
+(Rakendada ainult siis, kui on väga vaja, eksam on lõplik filter)
 
 *   Oskab selgitada suvalist kohta koodis.
 *   Oskab programmi käiku muuta, kui õppejõud seda palub.
@@ -164,11 +164,11 @@ Nonii. "Ükskõik kui keeruline või lihtne" on tore, aga mille eest reaalselt h
 - Telefoni ei näpi. Nimelt on kooli arvuti ainuke ekraan sinu elus.
 - Ei tohi kellegagi suhelda ei netis ega mujal v.a. õppejõuga.
 - Arvesse läheb ainult esimene giti link - valida ei saa.
-- Tohid kasutada internetti k.a. Google.
+- Tohid kasutada internetti, k.a. Google'it.
 - Üleüldised sohi tegemise reeglid kehtivad (nt. naabrilt maha kirjutamine).
 - Kõik ülesanded peavad olema lahendatud kasutades päris programmeerimise võtteid ja mitte lihtsalt näilisi lahendusi kirjutades.
 - Aega on 3 tundi.
-- Kui oled valmis, lae lahendused üles samasse reposse, kust nad said. Kui laed GitHubi või mujale avalikku kohta on tegu plagiaadi kaasa aitamises. Lahendusi võid jagada märtsis, kui kõik eksamid on ära olnud.
+- Kui oled valmis, lae lahendused üles samasse reposse, kust nad said. Kui laed GitHubi või mujale avalikku kohta, on tegu plagiaadi kaasa aitamises. Lahendusi võid jagada märtsis, kui kõik eksamid on ära olnud.
 - Kui koodi pushimine gitiga ei õnnestu, siis saada failid kokku pakitult (zip/rar/tar) mulle meilile: krister.viirsaar@itcollege.ee. Kaasneb 5p penalt. Copy-paste koodi ma vastu ei võta.
 - Õppejõud ei kontrolli, kas su töö läks gitti üles. Seda saad ise teha.
 - Küsimusi võib küsida, aga tõenäoliselt oled ise midagi valesti teinud :)
@@ -176,7 +176,7 @@ Nonii. "Ükskõik kui keeruline või lihtne" on tore, aga mille eest reaalselt h
 ### Soovitusi
 
 - Tule klassi palju varem ja kinnita, et Intellij on seadistatud.
-- Kui ülesanne on üle jõu siis lihtsusta enda jaoks, aga ära jäta programmi katki.
+- Kui ülesanne on üle jõu, siis lihtsusta enda jaoks, aga ära jäta programmi katki.
 - Ära copy-paste! Ülesanded on piisavalt lihtsad, et ajavõitu ei ole. Aga kui sa ei tea täpselt, mis teed, siis nüüd kaotad aega.
 - Ära kiirusta, mõtle läbi. Alati on lihtsam ja kergem lahendus olemas.
 - Kui googeldad, siis ära otsi lahendusi ülesandele, vaid vastuseid oma küsimustele!
